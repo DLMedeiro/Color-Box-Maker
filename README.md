@@ -2,6 +2,8 @@
 React Forms Exercises
 Application includes a form where colored boxes can be created and added to the DOM.  Each box can also be removed individually from the DOM.
 
+__Check it out at:__ https://dlmedeiro.github.io/Color-Box-Maker/
+
 ## Components
 
 __App:__ Renders the BoxList component.
