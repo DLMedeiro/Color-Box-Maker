@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Color-Box-Maker/static/css/main.073c9b0a.css",
+    "main.js": "/Color-Box-Maker/static/js/main.e97f5d00.js",
+    "static/js/787.b9c11767.chunk.js": "/Color-Box-Maker/static/js/787.b9c11767.chunk.js",
+    "index.html": "/Color-Box-Maker/index.html",
+    "main.073c9b0a.css.map": "/Color-Box-Maker/static/css/main.073c9b0a.css.map",
+    "main.e97f5d00.js.map": "/Color-Box-Maker/static/js/main.e97f5d00.js.map",
+    "787.b9c11767.chunk.js.map": "/Color-Box-Maker/static/js/787.b9c11767.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e97f5d00.js"
+  ]
+}
