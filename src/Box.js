@@ -1,22 +1,23 @@
 import React, { useState } from "react";
 
-const Box = ({id, backgroundColor, height, width, remove}) => {
-    const handleRemove = () => {
-        remove(id)
-    }
-    return (
-        // <div>
-        //     <p>{backgroundColor}</p>
-        //     <p>{height}</p>
-        //     <p>{width}</p>
-        //     <p>{id}</p>
-        // </div>
-        <div style={{backgroundColor: backgroundColor, height: height, width: width}}>
-            <p>{id}</p>
-            <button onClick = {handleRemove}>X</button>
-        </div>
-    )
-}
+const Box = ({ id, backgroundColor, height, width, remove }) => {
+  const handleRemove = () => {
+    remove(id);
+  };
+  return (
+    // <div>
+    //     <p>{backgroundColor}</p>
+    //     <p>{height}</p>
+    //     <p>{width}</p>
+    //     <p>{id}</p>
+    // </div>
+    <div
+      style={{ backgroundColor: backgroundColor, height: height, width: width }}
+    >
+      <button onClick={handleRemove}>X</button>
+    </div>
+  );
+};
 
 export default Box;
 
